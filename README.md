@@ -14,9 +14,9 @@ These functions also require the following R packages be installed: httr, jsonli
 
 Note that these functions are designed to work with version 1.0 of the InCites API. Clarivate Analytics recently launched version 2.0 of the API, which adds some data to the response. Updated functions to work with the new version are forthcoming. 
 
-To use the functions, save the .R file to your computer and load it into your R session using source(). 
+To use the functions, save the getInCites.r file to your computer and load it into your R session using source(). 
 
-    source("getInCites.R")
+    source("getInCites.r")
 
 ## Requesting organization metrics
 
